@@ -1,0 +1,73 @@
+img {
+	max-width: 100%;
+	padding: 13px;
+	
+
+	
+}
+.textover2 {
+	position: relative;
+	width: 600px;
+	height: auto;
+	margin-left: auto;
+margin-right: auto;}
+
+.key {
+	position: absolute;
+	TOP: 20px;
+	left: 120px;
+	color: #800000;
+	
+}
+.conpara2 {
+	position: absolute;
+	bottom: 20px;
+	left: 150px;
+	color: maroon;
+}
+
+.textover1 {
+	position: relative;
+	width: 300px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.overlay1 {
+	position: absolute;
+	top: 0px;
+	left: 16px;
+	color: lime;
+	
+}
+
+.conpara1 {
+	position: absolute;
+	top: 107px;
+	left: 16px;
+	color: lime;
+}
+
+.textover3 {
+	position: relative;
+	width: 300px;
+	height: auto;
+	margin-left: auto;
+margin-right: auto;}
+
+.key3 {
+	position: absolute;
+	bottom: 330px;
+	left: 16px;
+	color: #800000;
+	
+}
+
+.conpara3 {
+	position: absolute;
+	bottom: 12px;
+	left: 160px;
+	color: maroon;
+}
