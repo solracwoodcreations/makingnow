@@ -1,6 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
 img {
 	max-width: 100%;
-	padding: 13px;
+	padding: 5px;
+	border-radius: 10%;
+	
 	
 
 	
@@ -71,3 +78,4 @@ margin-right: auto;}
 	left: 160px;
 	color: maroon;
 }
+
