@@ -13,6 +13,11 @@ nav {
 	padding: 10px;
 }
 
+main {
+  text-align: center;
+  padding: 20px;
+}
+
 img {
 	position: relative;
 	width: auto;
@@ -29,20 +34,23 @@ p {
 }
 	   
 	   
+ 
+
 .seemore-button {
+  display: inline-block;
   background-color: blue;
-  color:white;
-  border:none;
-  height:34px;
-  width:99px;
-  border-radius: 10%;
-  cursor: pointer;
-  
-  }
-  
+  color: white;
+  padding: 8px 16px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 .seemore-button:hover {
-  box-shadow: 5px 5px 10px rgba(0, 0, 0.15);
-  }
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+  
+ 
   
 .seemore-button a {
   color: white;
@@ -60,3 +68,11 @@ a {
 	list-style-type: none;
 	text-decoration: none;
   }
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 350px;
+  border: 3px solid blue;
+  border-radius: 10%;
+}
