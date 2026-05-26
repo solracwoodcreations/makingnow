@@ -52,4 +52,10 @@ ul {
   padding: 0;
 }
 
+@media (max-width: 600px) {
+  img {
+    max-width: 280px;
+  }
+}
+
  
